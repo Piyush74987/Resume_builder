@@ -1,44 +1,28 @@
-# Project Title: Online Resume Builder
-## Project Overview:
+# Resume Builder Web Application
 
-The Online Resume Builder is a web-based application designed to assist users in creating professional resumes with ease. The tool offers a user-friendly interface where individuals can input their personal details, work experience, education, skills, and other relevant information. The application automatically formats the input into a well-structured resume, allowing users to download or share the final document in various formats, such as PDF or Word.
+## Description:
+Developed a responsive web application that allows users to create, customize, and download their resumes. The application is built using HTML, CSS, and vanilla JavaScript, providing a clean, user-friendly interface with real-time preview functionality.
 
 ## Key Features:
 
-### Resume Templates:
-Multiple professionally designed resume templates.
-Customizable templates to suit various job industries.
+### Dynamic Form Inputs:
+Users can input their personal information, education, work experience, skills, and other details through dynamically generated forms.
+Real-time Preview: The resume preview updates in real-time as users fill out the form, allowing them to see how their resume will look.
+Template Selection: Implemented multiple resume templates that users can select from, offering various styles and layouts.
+Download as PDF: Integrated a feature that allows users to download their completed resume as a PDF file.
+Responsive Design: Ensured that the application is fully responsive, working seamlessly across different screen sizes and devices.
 
-### Interactive Resume Builder:
-Step-by-step guidance through sections (Personal Information, Education, Work Experience, Skills, etc.).
-Real-time preview of the resume as users fill in their details.
-Drag-and-drop functionality for reordering sections.
+### Technologies Used:
+HTML5: Structured the content and layout of the application.
+CSS3: Styled the application with a focus on modern, clean design, and implemented responsive design using media queries.
+JavaScript (Vanilla): Managed user inputs, real-time updates, and implemented features like template switching and PDF generation.
 
-### PDF Export:
-Ability to download the final resume in PDF, Word, or other formats.
-Print-ready format with high-quality resolution.
-
-### User Dashboard:
-Save and manage multiple resumes.
-Track the number of downloads and shares.
-Notifications and reminders for updating resumes.
-
-### Mobile Compatibility:
-Responsive design for mobile and tablet devices.
-Easy resume creation and editing on the go.
-
-## Technologies Used:
-
-### Frontend: HTML, CSS, vanilla js
-
-## Challenges Faced:
-Implementing real-time preview of the resume as users input data.
-Ensuring cross-browser compatibility for a consistent user experience.
-Handling PDF generation with various formatting options.
-Securing user data and managing user sessions effectively.
+## Challenges & Solutions:
+PDF Generation: Initially, creating a seamless PDF export was challenging due to layout issues. This was resolved by using the jsPDF library combined with custom JavaScript to ensure the exported PDF closely matches the on-screen preview.
+State Management: Maintaining the state of the user inputs across different sections was managed using JavaScript objects and local storage, ensuring data persistence even if the user navigates away from the page.
 
 ## Outcome:
-The Online Resume Builder successfully helps users create professional resumes quickly and efficiently, with a variety of customization options. It has received positive feedback for its ease of use, template variety, and the quality of the generated resumes.
+Successfully built a functional and user-friendly resume builder that has been well-received by users. This project demonstrates my ability to build interactive and dynamic web applications using core web technologies.
 
 ## Sample images and pdf
 ![Screenshot (11)](https://github.com/user-attachments/assets/175c78bf-0972-4b03-bd31-bd338fd1c485)
