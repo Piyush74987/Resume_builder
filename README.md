@@ -40,5 +40,5 @@ Securing user data and managing user sessions effectively.
 ## Outcome:
 The Online Resume Builder successfully helps users create professional resumes quickly and efficiently, with a variety of customization options. It has received positive feedback for its ease of use, template variety, and the quality of the generated resumes.
 
-
+## Sample images and pdf
 
