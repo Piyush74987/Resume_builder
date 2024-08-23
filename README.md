@@ -27,7 +27,7 @@ Notifications and reminders for updating resumes.
 Responsive design for mobile and tablet devices.
 Easy resume creation and editing on the go.
 
-##Technologies Used:
+## Technologies Used:
 
 ### Frontend: HTML, CSS, vanilla js
 
